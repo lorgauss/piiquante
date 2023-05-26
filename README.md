@@ -1,4 +1,4 @@
-# Transformez une maquette en site web avec HTML & CSS
+# Construisez une API sécurisée pour une application d'avis gastronomiques
 ### Piiquante - Hot Takes
 _Projet 6 - Formation Développeu.r.se Web - octobre et novembre 2022 - Openclassrooms_
 
